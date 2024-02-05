@@ -2,23 +2,7 @@
 
 A Node.js application that provides a simple file management system with RESTful API endpoints. Users can create timestamped text files and retrieve a list of existing text files stored in the "Output" directory. The API is documented for easy integration and usage.
 
-## API Deployment
 
-The deployed Website: https://nodejs-filesystem-3xc8.onrender.com
-
-### API Request
-
-#### Create the file of current date and time
-
-<h4>End Point: createTextFile</h4>
-https://nodejs-filesystem-3xc8.onrender.com/createTextFile
-
-#### Get the files from server
-
-<h4>End Point: getTextFile</h4>
-https://nodejs-filesystem-3xc8.onrender.com/getTextFiles
-
-## Last Comitted Hash ID: 2cb84ab12b8761c98d46785c1b0b95ad70715c3a
 
 ## Table of Contents
 
@@ -36,21 +20,16 @@ https://nodejs-filesystem-3xc8.onrender.com/getTextFiles
 
 - Node.js and npm installed on your machine.
 
-### Installation
 
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/Shanmugamrskfamily/nodejs-filesystem.git
    ```
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
 ```shell
 cd nodejs-filesystem
 ```
 
-3. Install the dependencies:
+2. Install the dependencies:
 
 ```shell
 npm install
@@ -95,6 +74,4 @@ Push your changes to your fork.
 Submit a pull request to the main branch of the original repository.
 Please make sure to update tests as appropriate.
 
-## License
 
-This project is licensed under the [License Name] License - see the LICENSE file for details.
